@@ -1,0 +1,15 @@
+Comando para solucionar errores o dar permisos para que funciones el programa
+
+sudo easy_install pip
+
+sudo pip install requests
+
+sudo easy_install nose
+
+sudo easy_install tornado
+
+sudo chown -R $USER /Library/Python/2.7
+
+pip install fake-useragent
+
+pip install user-agents
